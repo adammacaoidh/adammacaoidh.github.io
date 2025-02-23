@@ -1,2 +1,2 @@
 # adammacaoidh.github.io
-Default Page
+This is where we begin
